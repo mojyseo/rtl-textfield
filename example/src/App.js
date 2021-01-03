@@ -1,10 +1,9 @@
 import React from 'react'
 
-import { ExampleComponent } from 'mui-rtl-textfield'
-import 'mui-rtl-textfield/dist/index.css'
+import TextField from 'mui-rtl-textfield'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <TextField label='سلااام' />
 }
 
 export default App

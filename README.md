@@ -15,12 +15,11 @@ npm install --save mui-rtl-textfield
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'mui-rtl-textfield'
-import 'mui-rtl-textfield/dist/index.css'
+import TextField from 'mui-rtl-textfield'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <TextField label='لیبل' />
   }
 }
 ```
