@@ -59,6 +59,6 @@
     "rtl-mui-textfield"
   ],
   "dependencies": {
-    "@material-ui/core": "^4.11.2"
+    "@mui/material": "^5.10.12"
   }
 }
